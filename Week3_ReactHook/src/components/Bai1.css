@@ -1,0 +1,43 @@
+/* .page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+
+/* .form{
+    display: flex;
+    flex-direction: column;
+} */
+
+.title{
+    color: rgb(255, 255, 255);
+    margin: 12px 0 6px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.text{
+    color: rgb(255, 255, 255);
+    margin: 12px 0 6px;
+    text-align: left;
+    font-size: 18px;
+}
+
+.input{
+    width: 20rem;
+    height: 1.5rem;
+}
+
+.input:focus{
+    outline: none;
+    border-color: red;
+}
+
+.login-btn{
+    width: 100%;
+    color: rgb(255, 255, 255);
+    margin: 12px 0 6px;
+    text-align: center;
+    font-size: 18px;
+}
